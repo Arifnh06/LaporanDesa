@@ -1,0 +1,76 @@
+laporan/application/com/libs/GalleryFilePath.java
+ laporan.application.com.libs.GalleryFilePath
+laporan/application/com/model/kegiatan.java
+ laporan.application.com.model.kegiatan
+laporan/application/com/model/dataitem.java
+ laporan.application.com.model.dataitem
+laporan/application/com/adapter/BencanaAdapter.java
+ laporan.application.com.adapter.BencanaAdapter
+ laporan.application.com.adapter.BencanaAdapter$1
+ laporan.application.com.adapter.BencanaAdapter$2
+ laporan.application.com.adapter.BencanaAdapter$3
+ laporan.application.com.adapter.BencanaAdapter$ViewHolder
+laporan/application/com/fragment/BencanaFragment.java
+ laporan.application.com.fragment.BencanaFragment
+ laporan.application.com.fragment.BencanaFragment$1
+laporan/application/com/libs/CommonUtilities.java
+ laporan.application.com.libs.CommonUtilities
+laporan/application/com/fragment/KegiatanFragment.java
+ laporan.application.com.fragment.KegiatanFragment
+ laporan.application.com.fragment.KegiatanFragment$1
+laporan/application/com/model/bencana.java
+ laporan.application.com.model.bencana
+laporan/application/com/laporan/BuatLaporanBencanaActivity.java
+ laporan.application.com.laporan.BuatLaporanBencanaActivity
+ laporan.application.com.laporan.BuatLaporanBencanaActivity$1
+ laporan.application.com.laporan.BuatLaporanBencanaActivity$2
+ laporan.application.com.laporan.BuatLaporanBencanaActivity$3
+ laporan.application.com.laporan.BuatLaporanBencanaActivity$4
+ laporan.application.com.laporan.BuatLaporanBencanaActivity$5
+ laporan.application.com.laporan.BuatLaporanBencanaActivity$6
+laporan/application/com/adapter/KegiatanAdapter.java
+ laporan.application.com.adapter.KegiatanAdapter
+ laporan.application.com.adapter.KegiatanAdapter$1
+ laporan.application.com.adapter.KegiatanAdapter$2
+ laporan.application.com.adapter.KegiatanAdapter$3
+ laporan.application.com.adapter.KegiatanAdapter$ViewHolder
+customfonts/MyTextView.java
+ customfonts.MyTextView
+laporan/application/com/libs/DatabaseHandler.java
+ laporan.application.com.libs.DatabaseHandler
+laporan/application/com/libs/Preview.java
+ laporan.application.com.libs.Preview
+laporan/application/com/laporan/AmbilFotoActivity.java
+ laporan.application.com.laporan.AmbilFotoActivity
+ laporan.application.com.laporan.AmbilFotoActivity$1
+ laporan.application.com.laporan.AmbilFotoActivity$2
+ laporan.application.com.laporan.AmbilFotoActivity$3
+ laporan.application.com.laporan.AmbilFotoActivity$4
+ laporan.application.com.laporan.AmbilFotoActivity$5
+ laporan.application.com.laporan.AmbilFotoActivity$6
+ laporan.application.com.laporan.AmbilFotoActivity$SaveImageTask
+laporan/application/com/libs/ImageLoadingUtils.java
+ laporan.application.com.libs.ImageLoadingUtils
+customfonts/MyEditText.java
+ customfonts.MyEditText
+elapor/application/com/elapor/BuildConfig.java
+ elapor.application.com.elapor.BuildConfig
+laporan/application/com/laporan/BuatLaporanKegiatanActivity.java
+ laporan.application.com.laporan.BuatLaporanKegiatanActivity
+ laporan.application.com.laporan.BuatLaporanKegiatanActivity$1
+ laporan.application.com.laporan.BuatLaporanKegiatanActivity$2
+ laporan.application.com.laporan.BuatLaporanKegiatanActivity$3
+ laporan.application.com.laporan.BuatLaporanKegiatanActivity$4
+ laporan.application.com.laporan.BuatLaporanKegiatanActivity$5
+ laporan.application.com.laporan.BuatLaporanKegiatanActivity$6
+laporan/application/com/model/version.java
+ laporan.application.com.model.version
+laporan/application/com/laporan/MainActivity.java
+ laporan.application.com.laporan.MainActivity
+ laporan.application.com.laporan.MainActivity$1
+ laporan.application.com.laporan.MainActivity$2
+ laporan.application.com.laporan.MainActivity$3
+ laporan.application.com.laporan.MainActivity$4
+ laporan.application.com.laporan.MainActivity$5
+ laporan.application.com.laporan.MainActivity$6
+ laporan.application.com.laporan.MainActivity$7

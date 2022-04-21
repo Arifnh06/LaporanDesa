@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/drawable-v24/btn_blue.xml" value="0.1" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/drawable-v24/btn_gree.xml" value="0.284" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/drawable-v24/btn_red.xml" value="0.1415" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/drawable-v24/card_background.xml" value="0.1415" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/drawable-v24/ic_launcher_background.xml" value="0.1415" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/drawable-v24/rect.xml" value="0.1" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/drawable-v24/searchbg.xml" value="0.1415" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/drawable-v24/text.xml" value="0.1415" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/drawable-v24/toolbarbg.xml" value="0.1415" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/drawable/actionstatusbg.xml" value="0.1505" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/drawable/bagnumberbg.xml" value="0.1505" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/drawable/belibg.xml" value="0.1505" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/drawable/bg_grosir.xml" value="0.1505" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/drawable/bg_msg_from.xml" value="0.1505" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/drawable/bg_msg_you.xml" value="0.1505" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/drawable/bg_soldout.xml" value="0.1505" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/drawable/bg_strok.xml" value="0.1505" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/drawable/bot_bar_bg.xml" value="0.1505" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/drawable/btn_blue.xml" value="0.1505" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/drawable/btn_greenonion.xml" value="0.1505" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/drawable/btn_lightgray.xml" value="0.1505" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/drawable/btn_pause.xml" value="0.1505" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/drawable/btn_play.xml" value="0.1505" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/drawable/btn_red.xml" value="0.1505" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/drawable/btn_white.xml" value="0.1505" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/drawable/button_bg_round.xml" value="0.1505" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/drawable/card_background.xml" value="0.143" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/drawable/card_backgrounds.xml" value="0.143" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/drawable/cartnumberbg.xml" value="0.1505" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/drawable/changebg.xml" value="0.1505" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/drawable/discountbg.xml" value="0.1505" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/drawable/disewabg.xml" value="0.1505" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/drawable/ic_menu_cart_notification.xml" value="0.1505" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/drawable/popupbg.xml" value="0.1505" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/drawable/rect1.xml" value="0.1505" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/drawable/rectbrandbg.xml" value="0.1505" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/drawable/rectfb.xml" value="0.1505" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/drawable/rectgoogle.xml" value="0.1505" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/drawable/recyclerbg.xml" value="0.1505" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/layout/activity_add_laporan_bencana.xml" value="0.36666666666666664" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/layout/activity_add_laporan_kegiatan.xml" value="0.36666666666666664" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/layout/activity_add_laporan_masyarakat.xml" value="0.22" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/layout/activity_add_laporan_serahterima.xml" value="0.33" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/layout/activity_ambil_foto.xml" value="0.25" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/layout/activity_menu.xml" value="0.33" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/layout/bencana_item_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/layout/fragment_bencana.xml" value="0.36666666666666664" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/layout/fragment_kegiatan.xml" value="0.36666666666666664" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/layout/fragment_pelanggaran.xml" value="0.36666666666666664" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/layout/fragment_serahterima.xml" value="0.36666666666666664" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/layout/informasi_dialog.xml" value="0.36666666666666664" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/layout/kegiatan_item_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/layout/pelanggaran_item_list.xml" value="0.18863049095607234" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/layout/pilih_gambar_dialog.xml" value="0.36666666666666664" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/layout/serahterima_item_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/layout/toolbar.xml" value="0.22" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/layout/toolbar_activity_add_laporan_bencana.xml" value="0.36666666666666664" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/layout/toolbar_activity_add_laporan_kegiatan.xml" value="0.36666666666666664" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/layout/toolbar_activity_add_laporan_masyarakat.xml" value="0.36666666666666664" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1415" />
+        <entry key="..\:/instalan software/isi android/LaporanDesa/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1965" />
+        <entry key="..\:/instalan software/isi android/elaporSerahTerima-main/app/src/main/res/drawable-mdpi/ic_launcher_background.xml" value="0.137" />
+        <entry key="..\:/instalan software/isi android/elaporSerahTerima-main/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1355" />
+        <entry key="..\:/instalan software/isi android/elaporSerahTerima-main/app/src/main/res/layout/activity_add_laporan_kegiatan.xml" value="0.36666666666666664" />
+        <entry key="..\:/instalan software/isi android/elaporSerahTerima-main/app/src/main/res/layout/activity_add_laporan_masyarakat.xml" value="0.36666666666666664" />
+        <entry key="..\:/instalan software/isi android/elaporSerahTerima-main/app/src/main/res/layout/activity_add_laporan_pelanggaran.xml" value="0.29863013698630136" />
+        <entry key="..\:/instalan software/isi android/elaporSerahTerima-main/app/src/main/res/layout/activity_add_laporan_serahterima.xml" value="0.25" />
+        <entry key="..\:/instalan software/isi android/elaporSerahTerima-main/app/src/main/res/layout/activity_ambil_foto.xml" value="0.36666666666666664" />
+        <entry key="..\:/instalan software/isi android/elaporSerahTerima-main/app/src/main/res/layout/activity_menu.xml" value="0.25" />
+        <entry key="..\:/instalan software/isi android/elaporSerahTerima-main/app/src/main/res/layout/fragment_pelanggaran.xml" value="0.36666666666666664" />
+        <entry key="..\:/instalan software/isi android/elaporSerahTerima-main/app/src/main/res/layout/fragment_serahterima.xml" value="0.36666666666666664" />
+        <entry key="..\:/instalan software/isi android/elaporSerahTerima-main/app/src/main/res/layout/informasi_dialog.xml" value="0.36666666666666664" />
+        <entry key="..\:/instalan software/isi android/elaporSerahTerima-main/app/src/main/res/layout/pelanggaran_item_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/instalan software/isi android/elaporSerahTerima-main/app/src/main/res/layout/serahterima_item_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/instalan software/isi android/elaporSerahTerima-main/app/src/main/res/layout/toolbar_activity_add_laporan_serahterima.xml" value="0.36666666666666664" />
+        <entry key="..\:/instalan software/isi android/elaporSerahTerima-main/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.144" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

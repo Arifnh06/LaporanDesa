@@ -1,0 +1,10 @@
+<resources>
+
+
+    <string name="app_title">Laporan Desa</string>
+    <string name="app_name">Laporan Desa</string>
+    <string name="nol">-000</string>
+    
+    <string name="back"> </string>
+
+</resources>
